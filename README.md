@@ -1,0 +1,1 @@
+Exercises and projects submitted in completion of Computer Programming Laboratory 2 (CSS122L) that showcase familiarity over various aspects of the C++ language, culminating in the design and implementation of a console-based ordering system.
